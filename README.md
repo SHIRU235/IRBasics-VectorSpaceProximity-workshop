@@ -73,9 +73,3 @@ Name - Bhupender Sejwal, Student ID: 9044574
 ---
 
 
-1. Open `IR_InvertedMatrix_Workshop.ipynb` in Jupyter Notebook.
-2. Run all cells step-by-step to:
-   - Build the inverted index
-   - Query documents
-   - Apply TF-IDF and check cosine similarity
-3. Review talking points and phrase query results.

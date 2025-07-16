@@ -1,7 +1,7 @@
 # IRBasics-VectorSpaceProximity-workshop
 #  NLP & IR Pipeline – Inverted Index + Vector Space Similarity
 
-This repository contains our team’s submission for the **PROG8245 90-minute NLP Workshop**, where we built a complete natural language processing pipeline from scratch. The project demonstrates foundational NLP concepts such as tokenization, stemming, stop word removal, inverted indexing, and vector space modeling using cosine similarity.
+This repository contains our team’s submission for the **Inverted Matrix And NLP Workshop**, where we built a complete natural language processing pipeline from scratch. The project demonstrates foundational NLP concepts such as tokenization, stemming, stop word removal, inverted indexing, and vector space modeling using cosine similarity.
 
 ---
 
